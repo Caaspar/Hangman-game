@@ -43,3 +43,4 @@ Notes
 * Seules les lettres alphabétiques uniques sont acceptées.
 * Répéter une lettre compte comme une erreur.
 * En mode deux joueurs, le mot secret est masqué à l’écran pour que le joueur 2 ne le voie pas.
+* Le jeu est en anglais mais les mots présents dans words.txt sont en français
